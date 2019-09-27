@@ -1,0 +1,1 @@
+{"virtualbox":{"/srv/website":{"guestpath":"/srv/website","hostpath":"C:/Users/salis/Devops/LAB2-VAGRANT","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/salis/Devops/LAB2-VAGRANT","disabled":false,"__vagrantfile":true}}}
